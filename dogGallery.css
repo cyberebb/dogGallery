@@ -1,0 +1,31 @@
+/*CSS file for Dog Gallery*/
+body{
+	background:#909090;
+	margin:2%;
+}
+#image{
+	width:675px;
+	height:450px;
+	line-height: 450px;
+	background-image: url('');
+	background: rgb(63,94,251);
+	background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+	margin:0 auto;
+	color:#fff;
+	text-align: center;
+	border: solid black 4px;
+	margin-bottom: 5%;
+	background-repeat: no-repeat;
+}
+
+.preview{
+	width:150px;
+	border:solid black 4px;
+	margin:1%;
+	margin-right: 8%;
+	margin-left:8%;
+}
+
+img{
+	width:50%;
+}
